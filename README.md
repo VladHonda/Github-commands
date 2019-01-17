@@ -1,9 +1,13 @@
 # Github-commands
 
 git clone https://github.com/blabla_Project
+
 git status (tell what changes and files were made)
+
 git add -A (add your file)
+
 git commit -m "I've changed the Matrix" (tell people what you did so they don't get to confused.)
+
 git push (makes the changes on github)
 
 
